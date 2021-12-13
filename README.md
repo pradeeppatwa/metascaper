@@ -1,4 +1,4 @@
-# metascaper
+# Metascaper
 __Project Title__: Scrape Website Metadata using Azure Functions
 
 __Problem Statement/Opportunity:__   
